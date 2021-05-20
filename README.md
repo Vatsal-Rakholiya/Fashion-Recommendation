@@ -2,8 +2,6 @@
 This project demonstrates, how we can make use of deep learning to do state-of-the-art image similarity search. I have used tensorflow and some publicly available datasets.
 
 ## Results
-![alt text](https://cdn-images-1.medium.com/max/800/1*dd0QDhLZAjBKD5JZgJCI9w.png)
-![alt text](https://cdn-images-1.medium.com/max/800/0*ziXWbDIrdW_qJMCL.png)
 ![alt text](https://cdn-images-1.medium.com/max/800/0*gL9UZQFdwFk-9smY.png)
 
 ## How to run
@@ -39,6 +37,4 @@ This project demonstrates, how we can make use of deep learning to do state-of-t
 
 One interesting application of this project is a recommendation engine based on image features.Here is an example of similar project of mine. Here instead of a web UI i have used an android UI. Once the user clicks a product image, the image will go to the server and k-number of similar product images can be displayed on UI as product recommendations. Theses rescommendations are purely based on image similarity. This kind of recommendations have high potentials in fashion-based ecommerce industry.
 
-![Example Results](server/static/images/result1.jpg)
-![Example Results](server/static/images/result2.jpg)
 
